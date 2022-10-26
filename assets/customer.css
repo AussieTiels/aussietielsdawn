@@ -3,6 +3,7 @@
 }
 .create-account {
   text-decoration: none !important;
+  font-size: 20px;
 }
 
 .customer:not(.account):not(.order) {

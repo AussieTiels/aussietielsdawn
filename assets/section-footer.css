@@ -11,6 +11,24 @@
 .footer-item-link {
   color: #F5F4A8 !important;
 }
+.footer__list-social {
+  height: 58px;
+}
+.terms-wrapper{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin: auto;
+  max-width: 1330px;
+  text-align: left;
+  color: #F5F4A8 !important;
+  justify-items: center;
+  padding-top: 64px;
+}
+
+.terms-wrapper a {
+  color: #F5F4A8 !important;
+  text-decoration: none;
+}
 .footer {
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
@@ -135,6 +153,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: flex-start;
+  justify-self: end;
 }
 
 .footer-block--newsletter:only-child {
@@ -155,6 +174,7 @@
   .footer-block--newsletter {
     flex-wrap: nowrap;
     justify-content: space-between;
+    justify-self: end;
   }
 }
 

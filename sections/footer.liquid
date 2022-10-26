@@ -82,8 +82,8 @@
                         src="{{ block.settings.image | image_url: width: 400 }}"
                         alt="{{ block.settings.image.alt | escape }}"
                         loading="lazy"
-                        width="auto"
-                        height="auto"
+                        width="300"
+                        height="180"
                       >
                     {%- else -%}
                       {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
@@ -143,10 +143,22 @@
           </div>
         </div>
       {%- endif -%}
-
     </div>
   {%- endif -%}
-
+  <div class="terms-wrapper">
+    <div>
+      ©AussieTiels 2022
+    </div>
+    <div>
+      <a href="/policies/privacy-policy">Privacy Policy</a>
+    </div>
+    <div>
+      <a href="/policies/terms-of-use">Terms of Use</a>
+    </div>
+    <div>
+      <a href="/policies/refund-policy">Refund policy</a>
+    </div>
+  </div>
 </footer>
 {%- if section.settings.show_social -%}
   <ul class="footer__list-social list-unstyled list-social" role="list">
