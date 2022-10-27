@@ -2,10 +2,18 @@
   background-color: #F1E0E0;
   padding: 1px;
   color: #C8353D;
+  max-height: 60px;
 }
 
 .login-form-errors .errors ul {
     margin-bottom: 0 impr !important;
+}
+
+.register-form-errors {
+  background-color: #F1E0E0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #C8353D;
 }
 
 .full-width-button {
