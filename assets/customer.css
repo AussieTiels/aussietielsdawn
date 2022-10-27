@@ -1,9 +1,23 @@
-.sign-in-button {
+.login-form-errors {
+  background-color: #F1E0E0;
+  padding: 1px;
+  color: #C8353D;
+}
+
+.login-form-errors .errors ul {
+    margin-bottom: 0 impr !important;
+}
+
+.full-width-button {
   width: 100%;
+  font-size: 18px !important;
 }
 .create-account {
   text-decoration: none !important;
-  font-size: 20px;
+  font-size: 18px !important;
+}
+.cancel-link {
+  font-size: 18px !important;
 }
 
 .customer:not(.account):not(.order) {
