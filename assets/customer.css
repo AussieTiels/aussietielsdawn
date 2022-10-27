@@ -6,7 +6,7 @@
 }
 
 .login-form-errors .errors ul {
-    margin-bottom: 0 impr !important;
+    margin-bottom: 0 !important;
 }
 
 .register-form-errors {
@@ -15,9 +15,17 @@
   padding-bottom: 10px;
   color: #C8353D;
 }
+.register-form-errors ul {
+  margin-bottom: 0 !important;
+}
 .register-form-errors ul li {
+  color: #C8353D;
+}
+
+.register-form-errors ul li a {
   margin-bottom: 10px
 }
+
 .full-width-button {
   width: 100%;
   font-size: 18px !important;
