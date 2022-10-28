@@ -175,6 +175,7 @@
         "template--16727601119509__cb00f355-ceba-4e6c-b543-ea02cf7a81ec-1666916607cc94c7f7-0": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/young-woman-in-sunglasses-with-rings.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=b7QlX3yR2xs",
             "description": "Describe the video",
             "image_padding": false
@@ -183,6 +184,7 @@
         "c02dca80-3e5a-4e3e-a66e-123ad141d2e7": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/two-red-cocktails-on-a-tray.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=b7QlX3yR2xs",
             "description": "Describe the video",
             "image_padding": false
