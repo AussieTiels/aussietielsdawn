@@ -98,71 +98,9 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e73adccc-ed6e-4840-b3f2-1124d30b9877": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16727601119509__e73adccc-ed6e-4840-b3f2-1124d30b9877-1666702159b1f8a816-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>YouTube Channel<\/p>",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "template--16727601119509__e73adccc-ed6e-4840-b3f2-1124d30b9877-1666702159b1f8a816-0"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 0
-      }
-    },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h2",
@@ -176,6 +114,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -257,30 +196,9 @@
         "padding_bottom": 36
       }
     },
-    "ee077bd7-4c75-4a2e-b90c-3da28678dfaa": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16727601119509__ee077bd7-4c75-4a2e-b90c-3da28678dfaa-16667656748a2ba619-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Make your day with Lemon, Ana and Quishna's funnest videos<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16727601119509__ee077bd7-4c75-4a2e-b90c-3da28678dfaa-16667656748a2ba619-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 56
-      }
-    },
     "ed1c3e74-bfb8-45e1-a9de-2e94ab77834f": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
@@ -317,8 +235,8 @@
         "template--16727601119509__cb00f355-ceba-4e6c-b543-ea02cf7a81ec-1666916607cc94c7f7-0"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
+        "heading": "YouTube Channel",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "none",
@@ -327,17 +245,26 @@
         "padding_bottom": 36
       }
     },
-    "34826e6f-3611-421f-8a0c-1a1ed87a6d01": {
-      "type": "video",
+    "ee077bd7-4c75-4a2e-b90c-3da28678dfaa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16727601119509__ee077bd7-4c75-4a2e-b90c-3da28678dfaa-16667656748a2ba619-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Make your day with Lemon, Ana and Quishna's funnest videos<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16727601119509__ee077bd7-4c75-4a2e-b90c-3da28678dfaa-16667656748a2ba619-1"
+      ],
       "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 56
       }
     }
   },
@@ -345,13 +272,10 @@
     "image_banner",
     "rich_text",
     "featured_collection",
-    "collage",
-    "e73adccc-ed6e-4840-b3f2-1124d30b9877",
     "video",
     "multicolumn",
-    "ee077bd7-4c75-4a2e-b90c-3da28678dfaa",
     "ed1c3e74-bfb8-45e1-a9de-2e94ab77834f",
     "cb00f355-ceba-4e6c-b543-ea02cf7a81ec",
-    "34826e6f-3611-421f-8a0c-1a1ed87a6d01"
+    "ee077bd7-4c75-4a2e-b90c-3da28678dfaa"
   ]
 }
