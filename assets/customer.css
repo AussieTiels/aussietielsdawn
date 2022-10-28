@@ -2,7 +2,7 @@
   background-color: #F1E0E0;
   padding: 1px;
   color: #C8353D;
-  max-height: 60px;
+  height: 60px;
 }
 
 .login-form-errors .errors ul {
@@ -17,6 +17,7 @@
 }
 .register-form-errors ul {
   margin-bottom: 0 !important;
+  margin-top: 0 !important;
 }
 .register-form-errors ul li {
   color: #C8353D;
