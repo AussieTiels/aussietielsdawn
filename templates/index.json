@@ -114,7 +114,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -133,51 +132,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "66dce93b-73ce-4939-a735-e938ee9f10cd": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "439fd883-c31a-4519-b7e4-4c10d3f7cda1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column1",
-        "9c0fa429-69cd-4753-89ee-a5c341f3fa87",
-        "column2",
-        "column3",
-        "66dce93b-73ce-4939-a735-e938ee9f10cd",
-        "439fd883-c31a-4519-b7e4-4c10d3f7cda1"
+        "9c0fa429-69cd-4753-89ee-a5c341f3fa87"
       ],
       "settings": {
         "title": "",
@@ -213,26 +172,26 @@
     "cb00f355-ceba-4e6c-b543-ea02cf7a81ec": {
       "type": "collage",
       "blocks": {
-        "c02dca80-3e5a-4e3e-a66e-123ad141d2e7": {
+        "template--16727601119509__cb00f355-ceba-4e6c-b543-ea02cf7a81ec-1666916607cc94c7f7-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=b7QlX3yR2xs",
             "description": "Describe the video",
             "image_padding": false
           }
         },
-        "template--16727601119509__cb00f355-ceba-4e6c-b543-ea02cf7a81ec-1666916607cc94c7f7-0": {
+        "c02dca80-3e5a-4e3e-a66e-123ad141d2e7": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=b7QlX3yR2xs",
             "description": "Describe the video",
             "image_padding": false
           }
         }
       },
       "block_order": [
-        "c02dca80-3e5a-4e3e-a66e-123ad141d2e7",
-        "template--16727601119509__cb00f355-ceba-4e6c-b543-ea02cf7a81ec-1666916607cc94c7f7-0"
+        "template--16727601119509__cb00f355-ceba-4e6c-b543-ea02cf7a81ec-1666916607cc94c7f7-0",
+        "c02dca80-3e5a-4e3e-a66e-123ad141d2e7"
       ],
       "settings": {
         "heading": "YouTube Channel",
