@@ -57,7 +57,11 @@
                     <facet-remove>
                       <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
                         <span class="active-facets__button-inner button button--tertiary">
-                          {{ filter.label }}: {{ value.label | escape }}
+                          {%- if filter.label == 'More filters' -%}
+                            All Collections
+                          {% else %}
+                          {{ filter.label }}
+                          {% endif %} : {{ value.label | escape }}
                           {% render 'icon-close-small' %}
                           <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
                         </span>
@@ -294,7 +298,12 @@
                   <facet-remove>
                     <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
                       <span class="active-facets__button-inner button button--tertiary">
-                        {{ filter.label }}: {{ value.label | escape }}
+                        {%- if filter.label == 'More filters' -%}
+                          All Collections
+                        {% else %}
+                        {{ filter.label }}
+                        {% endif %} 
+                        : {{ value.label | escape }}
                         {% render 'icon-close-small' %}
                         <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
                       </span>
@@ -491,7 +500,11 @@
                       <div id="FacetMobile-{{ forloop.index }}-{{ section.id }}" class="mobile-facets__submenu gradient">
                         <button class="mobile-facets__close-button link link--text focus-inset" aria-expanded="true" type="button">
                           {% render 'icon-arrow' %}
+                          {%- if filter.label == 'More filters' -%}
+                            All Collections
+                          {% else %}
                           {{ filter.label | escape }}
+                          {% endif %} 
                         </button>
                         <ul class="mobile-facets__list list-unstyled" role="list">
                           {%- for value in filter.values -%}
@@ -554,7 +567,11 @@
                       <div id="FacetMobile-{{ forloop.index }}-{{ section.id }}" class="mobile-facets__submenu gradient">
                         <button class="mobile-facets__close-button link link--text focus-inset" aria-expanded="true" type="button">
                           {% render 'icon-arrow' %}
+                          {%- if filter.label == 'More filters' -%}
+                            All Collections
+                          {% else %}
                           {{ filter.label | escape }}
+                          {% endif %} 
                         </button>
 
                         {%- assign max_price_amount = filter.range_max | money | strip_html | escape -%}
@@ -660,7 +677,11 @@
         <facet-remove>
           <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
             <span class="active-facets__button-inner button button--tertiary">
-              {{ filter.label }}: {{ value.label | escape }}
+              {%- if filter.label == 'More filters' -%}
+                All Collections
+              {% else %}
+              {{ filter.label }}
+              {% endif %} : {{ value.label | escape }}
               {% render 'icon-close-small' %}
               <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
             </span>
@@ -757,7 +778,11 @@
               <facet-remove>
                 <a href="{{ value.url_to_remove }}" class="active-facets__button active-facets__button--light">
                   <span class="active-facets__button-inner button button--tertiary">
-                    {{ filter.label }}: {{ value.label | escape }}
+                    {%- if filter.label == 'More filters' -%}
+                      All Collections
+                    {% else %}
+                    {{ filter.label }}
+                    {% endif %} : {{ value.label | escape }}
                     {% render 'icon-close-small' %}
                     <span class="visually-hidden">{{ 'products.facets.clear_filter' | t }}</span>
                   </span>
