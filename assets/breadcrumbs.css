@@ -39,7 +39,18 @@
       color: inherit;
       font-weight: normal;
       text-decoration: none;
+      pointer-events: none;
     }
+
+    .breadcrumbs-shop-all {
+        text-decoration: none;
+        color: rgba(var(--color-foreground), 0.75);
+    }
+    .breadcrumbs-shop-all[aria-current="page"]:hover,
+    .breadcrumbs-shop-all[aria-current="page"]:focus {
+        text-decoration: underline;
+    }
+
     .breadcrumbs__link:hover,
     .breadcrumbs__link:focus {
       text-decoration: underline;
@@ -49,3 +60,13 @@
     .breadcrumbs__link[aria-current="page"]:focus {
       text-decoration: none;
     }
+
+    @media screen and (max-width: 750px) {
+        .breadcrumbs {
+            width: 700px;
+            padding-top: 48px;
+          }
+          .breadcrumbs__list {
+            margin-left: 15px;
+          }
+      }
