@@ -2332,7 +2332,7 @@ input[type='checkbox'] {
   .header__heading-link {
     text-align: center;
   }
-  .header__heading img{
+  .header__heading-logo {
     height: 48px !important;
     width: 80px !important;
   }
