@@ -2333,8 +2333,8 @@ input[type='checkbox'] {
     text-align: center;
   }
   .header__heading img{
-    height: 50px;
-    width: 100%
+    height: 48px !important;
+    width: 80px !important;
   }
 
   .header--mobile-left .header__heading,
