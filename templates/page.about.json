@@ -23,8 +23,9 @@
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/small-black-and-white-bird-with-a-yellow-belly.jpg",
+            "title": "Ana: Female DOB 27\/09\/2020",
+            "text": "<p>Ana is a grey pearl cockatiel and she was bald as she was abused by her parents before she s 3 weeks old. <br\/><br\/>She's timid and can be easily scared. She's still unable to fly.<\/p>",
             "link_label": "",
             "link": ""
           }
