@@ -65,10 +65,11 @@
         "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "small",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
+        "padding_top": 80,
         "padding_bottom": 12
       }
     },
