@@ -83,15 +83,6 @@
             "page": ""
           }
         },
-        "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "WHAT IS A PRE-ORDER\/BACKORDERED PRODUCT?",
-            "icon": "none",
-            "row_content": "<p>A pre-order is designed with the customer in mind, where orders are taken over a period to<br\/>ensure that you can secure your order before the collection sells out.<br\/><\/p><p>A backorder is a product that has been reordered to be manufactured after the existing stock<br\/>has sold out.<br\/><\/p><p>All pre-ordered and backordered stock is expected to have shipped by mid December.<\/p>",
-            "page": ""
-          }
-        },
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-2": {
           "type": "collapsible_row",
           "settings": {
@@ -136,26 +127,15 @@
             "row_content": "<p>Tracking information will be sent to the contact information you provide us. This will be sent<br\/>via email\/sms when your order has been fulfilled. For specific tracking details or if your<br\/>delivery is late, you can contact the carrier directly for the most up-to-date information,<br\/>including any carrier or regional delays.<br\/><\/p>",
             "page": ""
           }
-        },
-        "b1d0ad6a-add2-4c09-9736-f121901996c2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "WHAT IS A PRE ORDER?",
-            "icon": "none",
-            "row_content": "<p>A pre-order is designed with the customer in mind, where orders are taken over a period to<br\/>ensure that you can secure your order before the collection sells out. All orders from this pre-<br\/>order campaign are expected to have shipped by mid December.<br\/><\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-0",
-        "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-1",
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-2",
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-3",
         "a8238473-5462-4418-82c2-36bb162fd584",
         "fb40c36d-038c-4a1e-b7db-3b4d40c2eb87",
-        "6165f40d-46f7-4a29-a31d-9708c9714c0f",
-        "b1d0ad6a-add2-4c09-9736-f121901996c2"
+        "6165f40d-46f7-4a29-a31d-9708c9714c0f"
       ],
       "settings": {
         "caption": "",
