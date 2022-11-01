@@ -83,15 +83,6 @@
             "page": ""
           }
         },
-        "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "WHAT IS A PRE-ORDER\/BACKORDERED PRODUCT?",
-            "icon": "none",
-            "row_content": "<p>A pre-order is designed with the customer in mind, where orders are taken over a period to<br\/>ensure that you can secure your order before the collection sells out.<br\/><\/p><p>A backorder is a product that has been reordered to be manufactured after the existing stock<br\/>has sold out.<br\/><\/p><p>All pre-ordered and backordered stock is expected to have shipped by mid December.<\/p>",
-            "page": ""
-          }
-        },
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-2": {
           "type": "collapsible_row",
           "settings": {
@@ -136,26 +127,15 @@
             "row_content": "<p>Tracking information will be sent to the contact information you provide us. This will be sent<br\/>via email\/sms when your order has been fulfilled. For specific tracking details or if your<br\/>delivery is late, you can contact the carrier directly for the most up-to-date information,<br\/>including any carrier or regional delays.<br\/><\/p>",
             "page": ""
           }
-        },
-        "b1d0ad6a-add2-4c09-9736-f121901996c2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "WHAT IS A PRE ORDER?",
-            "icon": "none",
-            "row_content": "<p>A pre-order is designed with the customer in mind, where orders are taken over a period to<br\/>ensure that you can secure your order before the collection sells out. All orders from this pre-<br\/>order campaign are expected to have shipped by mid December.<br\/><\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-0",
-        "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-1",
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-2",
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-3",
         "a8238473-5462-4418-82c2-36bb162fd584",
         "fb40c36d-038c-4a1e-b7db-3b4d40c2eb87",
-        "6165f40d-46f7-4a29-a31d-9708c9714c0f",
-        "b1d0ad6a-add2-4c09-9736-f121901996c2"
+        "6165f40d-46f7-4a29-a31d-9708c9714c0f"
       ],
       "settings": {
         "caption": "",
@@ -198,7 +178,7 @@
           "settings": {
             "heading": "CAN I RETURN THE ITEMS?",
             "icon": "none",
-            "row_content": "<p>We do not accept returns due to certain customer-related circumstances. If you are unable to<br\/>receive your items due to reasons such as refusal of package, long absence from address, or<br\/>incorrect address, you will be issued a refund but charged a return shipping fee and a AUD $7 administrative fee.<\/p><p>Although we make every effort to ensure product quality, if your order is broken or damaged<br\/>or the delivered products differ from what you ordered, please contact us within 7 days after<br\/>delivery.<\/p><p>We will promptly carry out returns, refunds, or exchanges in this case.<br\/><br\/>*Note: Returns or exchanges may not be accepted in some cases for slight variations in product size or color.<\/p><p><\/p><p>We also may not accept a request for a return or exchange in the following cases.<br\/><\/p><p>*Requested for the customer's convenience<br\/><br\/>(size doesn't fit, product not as pictured, ordered by mistake, etc.)<br\/><br\/>*Requested more than 7 days after delivery<br\/><br\/>*Products have been used by the customer<br\/><br\/>*Products have not been used but have been washed one or more times<br\/><br\/>*Products have been dirtied by the customer such as when trying them on<br\/><br\/>*Products which have taken on a smell such as cigarettes<br\/><br\/>*Products which have been broken or damaged by the customer or for which the tags have<br\/>been lost<br\/><br\/>*Customer ordered multiple sizes or colors of the same product with the intent of returning some<br\/><\/p>",
+            "row_content": "<p>We do not accept returns due to certain customer-related circumstances. <\/p><p>Although we make every effort to ensure product quality, if your order is broken or damaged<br\/>or the delivered products differ from what you ordered, please contact us within 7 days after<br\/>delivery.<\/p><p>We will promptly carry out returns, refunds, or exchanges in this case.<br\/><br\/>*Note: Returns or exchanges may not be accepted in some cases for slight variations in product size or color.<\/p><p><\/p><p>We also may not accept a request for a return or exchange in the following cases.<br\/><\/p><p>*Requested for the customer's convenience<br\/><br\/>(size doesn't fit, product not as pictured, ordered by mistake, etc.)<br\/><br\/>*Requested more than 7 days after delivery<br\/><br\/>*Products have been used by the customer<br\/><br\/>*Products have not been used but have been washed one or more times<br\/><br\/>*Products have been dirtied by the customer such as when trying them on<br\/><br\/>*Products which have taken on a smell such as cigarettes<br\/><br\/>*Products which have been broken or damaged by the customer or for which the tags have<br\/>been lost<br\/><br\/>*Customer ordered multiple sizes or colors of the same product with the intent of returning some<br\/><\/p>",
             "page": ""
           }
         },
@@ -207,7 +187,7 @@
           "settings": {
             "heading": "WHERE IS MY REFUND?",
             "icon": "none",
-            "row_content": "<p>We refund the entire product cost (including tax). No refunds will be issued for shipping and<br\/>other expenses.<br\/><br\/>*Note: When sending items back, shipping fees should be paid by the customer.<br\/><\/p><p>We’ll send you an email to let you know we’ve issued the refund—it may take up to 10<br\/>additional days for the funds to show in your account.<br\/><\/p>",
+            "row_content": "<p>We refund the entire product cost (including tax). <br\/><\/p><p>We’ll send you an email to let you know we’ve issued the refund—it may take up to 15<br\/>additional days for the funds to show in your account.<br\/><\/p>",
             "page": ""
           }
         },
@@ -216,7 +196,7 @@
           "settings": {
             "heading": "WHAT CAN I DO IF I ORDERED THE WRONG SIZE?",
             "icon": "none",
-            "row_content": "<p>All orders are final. If you ordered the incorrect size please immediately contact customer<br\/>support with your order number and detail what was ordered in the incorrect size and we will<br\/>remove them from your order. If you realize you ordered the incorrect size upon delivery,<br\/>please email support to request a return and do NOT open your goods.<br\/><\/p>",
+            "row_content": "<p>All orders are final. If you ordered the incorrect size please immediately contact customer<br\/>support with your order number and detail what was ordered in the incorrect size and we will<br\/>remove them from your order.<\/p><p> If you fail to communicate a shipping address change before your order is shipped<br\/><\/p>",
             "page": ""
           }
         }
