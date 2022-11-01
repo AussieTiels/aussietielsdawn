@@ -1,20 +1,5 @@
 {
   "sections": {
-    "3ca6f735-6c12-4c92-a7c7-efcb25e07769": {
-      "type": "image-banner",
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -80,7 +65,6 @@
     }
   },
   "order": [
-    "3ca6f735-6c12-4c92-a7c7-efcb25e07769",
     "main",
     "6266b61e-89aa-46bb-ad18-ba87a66ccb7f"
   ]
