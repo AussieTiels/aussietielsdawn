@@ -196,7 +196,7 @@
           "settings": {
             "heading": "WHAT CAN I DO IF I ORDERED THE WRONG SIZE?",
             "icon": "none",
-            "row_content": "<p>All orders are final. If you ordered the incorrect size please immediately contact customer<br\/>support with your order number and detail what was ordered in the incorrect size and we will<br\/>remove them from your order.<\/p>",
+            "row_content": "<p>All orders are final. If you ordered the incorrect size please immediately contact customer<br\/>support with your order number and detail what was ordered in the incorrect size and we will<br\/>remove them from your order.<\/p><p> If you fail to communicate a shipping address change before your order is shipped<br\/><\/p>",
             "page": ""
           }
         }
