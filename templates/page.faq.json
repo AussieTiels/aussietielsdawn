@@ -239,7 +239,7 @@
           "settings": {
             "heading": "WHAT PAYMENT METHODS ARE ACCEPTED?",
             "icon": "none",
-            "row_content": "<p>We accept major credit cards including Visa and Mastercard . We also accept PayPal, ShopPay<br\/>and GPay.<br\/><\/p>",
+            "row_content": "<p>We accept major credit cards including Visa and Mastercard . We also accept PayPal, ShopPay, Apple Pay and GPay.<br\/><\/p>",
             "page": ""
           }
         },
