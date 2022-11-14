@@ -27,6 +27,13 @@
           "settings": {
           }
         },
+        "1a2d76c5-cd1f-4025-89f6-803db448872e": {
+          "type": "text",
+          "settings": {
+            "text": "Inc. tax",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -55,6 +62,7 @@
         "title",
         "caption",
         "price",
+        "1a2d76c5-cd1f-4025-89f6-803db448872e",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
