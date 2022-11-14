@@ -88,7 +88,7 @@
           "settings": {
             "heading": "DO YOU SHIP INTERNATIONALLY?",
             "icon": "none",
-            "row_content": "<p>As a start, we ship to Australia, New Zealand and USA based on international agreements and<br\/>Auspost restrictions. We would try our best to roll out to ship to a wider range of countries<br\/>soon. If we are unable to ship to your country, you will be notified at checkout and your<br\/>purchase will be blocked.<br\/><\/p>",
+            "row_content": "<p>As a start, we ship to Australia, New Zealand, USA, Canada, Singapore, Japan, South Korea, Taiwan and Malaysia. We would try our best to roll out to ship to a wider range of countries soon. If we are unable to ship to your country, you will be notified at checkout and your<br\/>purchase will be blocked.<br\/><\/p>",
             "page": ""
           }
         },
@@ -97,7 +97,7 @@
           "settings": {
             "heading": "HOW MUCH DOES SHIPPING COST?",
             "icon": "none",
-            "row_content": "<p>Shipping costs are displayed on the checkout page and are calculated based on weight,<br\/>shipping method and destination.<br\/><\/p>",
+            "row_content": "<p>Shipping costs are displayed on the checkout page and are calculated based on weight, shipping method and destination.<br\/><\/p>",
             "page": ""
           }
         },
