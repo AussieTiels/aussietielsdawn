@@ -115,7 +115,7 @@
           "settings": {
             "heading": "CAN I UPDATE MY SHIPPING ADDRESS AFTER I HAVE ORDERED?",
             "icon": "none",
-            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support support@aussietiels.com immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p><p>If your package fails to be delivered due to an insufficient delivery address the goods will be returned to us. Please contact us if this occurs and we will organize a reshipment to an updated shipping address.<br\/><\/p>",
+            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support support@aussietiels.com immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p><p>If your package fails to be delivered due to an incorrect or insufficient delivery address, or no body is in the address to receive the package, the goods will be disposed by the courier. Please note in this case, no refund is available.<\/p>",
             "page": ""
           }
         },
