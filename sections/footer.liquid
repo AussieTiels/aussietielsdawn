@@ -164,7 +164,7 @@
                     <localization-form>
                       {%- form 'localization', id: 'FooterCountryForm', class: 'localization-form' -%}
                         <div class="no-js-hidden">
-                          {%- comment -%} <h2 class="caption-large text-body country-currency" id="FooterCountryLabel">{{ 'localization.country_label' | t }}</h2> {%- endcomment -%}
+                          <h2 class="caption-large text-body" id="FooterCountryLabel">{{ 'localization.country_label' | t }}</h2>
                           <div class="disclosure">
                             <button type="button" class="disclosure__button localization-form__select localization-selector link link--text caption-large" aria-expanded="false" aria-controls="FooterCountryList" aria-describedby="FooterCountryLabel">
                               {{ localization.country.name }} ({{ localization.country.currency.iso_code }} {{ localization.country.currency.symbol }})
@@ -172,19 +172,13 @@
                             </button>
                             <div class="disclosure__list-wrapper" hidden>
                               <ul id="FooterCountryList" role="list" class="disclosure__list list-unstyled">
-                                {% assign australia = localization.available_countries | where: 'name', 'Australia' %}
-                                {% assign unitedStates = localization.available_countries | where: 'name', 'United States' %}
+                                {%- for country in localization.available_countries -%}
                                   <li class="disclosure__item" tabindex="-1">
-                                    <a class="link link--text disclosure__link caption-large{% if australia[0].iso_code == localization.country.iso_code %} disclosure__link--active{% endif %} focus-inset" href="#"{% if australia[0].iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ australia[0].iso_code }}">
-                                      {{ australia[0].name }} <span class="localization-form__currency">({{ australia[0].currency.iso_code }} {{ australia[0].currency.symbol }})</span>
+                                    <a class="link link--text disclosure__link caption-large{% if country.iso_code == localization.country.iso_code %} disclosure__link--active{% endif %} focus-inset" href="#"{% if country.iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ country.iso_code }}">
+                                      {{ country.name }} <span class="localization-form__currency">({{ country.currency.iso_code }} {{ country.currency.symbol }})</span>
                                     </a>
                                   </li>
-                                  <li class="disclosure__item" tabindex="-1">
-                                    <a class="link link--text disclosure__link caption-large{% if unitedStates[0].iso_code == localization.country.iso_code %} disclosure__link--active{% endif %} focus-inset" href="#"{% if unitedStates[0].iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ unitedStates[0].iso_code }}">
-                                      {{ unitedStates[0].name }} <span class="localization-form__currency">({{ unitedStates[0].currency.iso_code }} {{ unitedStates[0].currency.symbol }})</span>
-                                    </a>
-                                  </li>
-          
+                                {%- endfor -%}
                               </ul>
                             </div>
                           </div>
