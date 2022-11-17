@@ -248,7 +248,7 @@
           "settings": {
             "heading": "WHAT CURRENCY IS USED?",
             "icon": "none",
-            "row_content": "<p>All payments outside Australia are processed in USD, although we may have a currency toggle available for your convenience. The currency displayed within the checkout process will be in AUD or USD, unless otherwise specified.<br\/><\/p>",
+            "row_content": "<p>The currency displayed within the checkout process will be in your local currency.<br\/><\/p>",
             "page": ""
           }
         }
