@@ -79,7 +79,7 @@
           "settings": {
             "heading": "WHERE IS MY ORDER\/WHEN WILL I RECEIVE MY ITEMS?",
             "icon": "none",
-            "row_content": "<p>All in stock items are shipped immediately. Backordered products are estimated to be in stock in about 1 months time. Once the item is shipped, standard shipping times apply. If your order has items with different estimated shipping dates, your order will only ship once all items are ready.<br\/><\/p><p>Once shipped, AU shipments (depending on shipping method) will take 2-9 business days and international shipments will take 4-27 business days to be delivered.<br\/><\/p>",
+            "row_content": "<p>All in stock items are shipped immediately. Backordered products are estimated to be in stock in about 1 months time. Once the item is shipped, standard shipping times apply. If your order has items with different estimated shipping dates, your order will only ship once all items are ready.<br\/><\/p><p>Once shipped, AU shipments (depending on shipping method) will take 2-9 business days and international shipments will take 4-27 business days to be delivered.<br\/><\/p><p>We use AUSPOST and have standard\/express delivery options at checkout.<\/p><p>Standard and express parcel international delivery times please check: <a href=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\" title=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\">https:\/\/auspost.com.au\/service-updates\/international-delivery-times<\/a><\/p>",
             "page": ""
           }
         },
