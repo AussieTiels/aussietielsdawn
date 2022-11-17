@@ -248,7 +248,7 @@
           "settings": {
             "heading": "WHAT CURRENCY IS USED?",
             "icon": "none",
-            "row_content": "<p>The currency displayed within the checkout process will be in your local currency.<br\/><\/p>",
+            "row_content": "<p>The currency displayed within the checkout process will be in your local currency. And we accept your local currency.<\/p><p><br\/>We also have a currency toggle available at the bottom of the website for your convenience.<\/p>",
             "page": ""
           }
         }
