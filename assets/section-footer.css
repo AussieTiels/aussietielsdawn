@@ -36,6 +36,9 @@
 .flex-box-end {
   align-self: flex-end;
 }
+.footer-country-label {
+  color:#F5F4A8 !important;
+}
 .country-currency {
   text-align: right;
   color:#F5F4A8 !important;
