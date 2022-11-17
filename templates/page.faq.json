@@ -88,7 +88,7 @@
           "settings": {
             "heading": "DO YOU SHIP INTERNATIONALLY?",
             "icon": "none",
-            "row_content": "<p>As a start, we ship to Australia, New Zealand, USA, Canada, Singapore, Japan, South Korea, Taiwan and Malaysia. We would try our best to roll out to ship to a wider range of countries soon. If we are unable to ship to your country, you will be notified at checkout and your<br\/>purchase will be blocked.<br\/><\/p>",
+            "row_content": "<p>Yes, as a start we currengly have 17 countries\/regions available. If we are unable to ship to your country, you will be notified at checkout and your purchase will be blocked. <\/p><p>We would try our best to roll out to ship to a wider range of countries soon. <br\/><\/p>",
             "page": ""
           }
         },
@@ -115,7 +115,7 @@
           "settings": {
             "heading": "CAN I UPDATE MY SHIPPING ADDRESS AFTER I HAVE ORDERED?",
             "icon": "none",
-            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support support@aussietiels.com immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p><p>If your package fails to be delivered due to an incorrect or insufficient delivery address, or no body is in the address to receive the package, the goods will be disposed by the courier. Please note in this case, no refund is available.<\/p>",
+            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support <strong>support@aussietiels.com<\/strong> immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p><p>If your package fails to be delivered due to an incorrect or insufficient delivery address, or no body is in the address to receive the package, the goods will be disposed by the courier. Please note in this case, no refund is available.<\/p>",
             "page": ""
           }
         },
@@ -169,7 +169,7 @@
           "settings": {
             "heading": "CAN I EXCHANGE ITEMS ONCE I’VE PLACED MY ORDER?",
             "icon": "none",
-            "row_content": "<p>As we operate on a pre-order model with limited stock, all orders are final. Please double check your order when checking out. We do not offer size-exchanges or item exchanges once you have purchased the goods they are final. You can cancel your order or cancel items within that order if you made an error.<br\/><\/p>",
+            "row_content": "<p>As we operate on a pre-order model with limited stock, all orders are final. Please double check your order when checking out. We do not offer size-exchanges or item exchanges once you have purchased the goods they are final. You can cancel your order or cancel items within that order before items are shipped out.<br\/><\/p>",
             "page": ""
           }
         },
@@ -178,7 +178,7 @@
           "settings": {
             "heading": "CAN I RETURN THE ITEMS?",
             "icon": "none",
-            "row_content": "<p>We do not accept returns due to certain customer-related circumstances. <\/p><p>Although we make every effort to ensure product quality, if your order is broken or damaged or the delivered products differ from what you ordered, please contact us within 7 days after delivery.<\/p><p>We will promptly carry out returns, refunds, or exchanges in this case.<br\/><br\/>*Note: Returns or exchanges may not be accepted in some cases for slight variations in product size or color.<\/p><p><\/p><p>We also may not accept a request for a return or exchange in the following cases.<br\/><\/p><p>*Requested for the customer's convenience<br\/><br\/>(size doesn't fit, product not as pictured, ordered by mistake, etc.)<br\/><br\/>*Requested more than 7 days after delivery<br\/><br\/>*Products have been used by the customer<br\/><br\/>*Products have not been used but have been washed one or more times<br\/><br\/>*Products have been dirtied by the customer such as when trying them on<br\/><br\/>*Products which have taken on a smell such as cigarettes<br\/><br\/>*Products which have been broken or damaged by the customer or for which the tags have<br\/>been lost<br\/><br\/>*Customer ordered multiple sizes or colors of the same product with the intent of returning some<br\/><\/p>",
+            "row_content": "<p>Returns are accepted if there is a fault with the product\/s upon delivery, please contact our customer support <strong>support@aussietiels.com <\/strong>with photos of the defective good\/s, your order number and a description of the issue within 7 days after delivery. <\/p><p>We will issue a full refund including shipping costs. <\/p><p><\/p><p>Please note: we do not accept a request for a return or exchange in the following cases:<\/p><p>* Customer related circumstances: size doesn't fit, ordered by mistake, doesn't like the color, provided incorrect shipping address, etc.<\/p><p>*Requested more than 7 days after delivery<\/p><p>*Products have been used by the customer<\/p><p>*Products have not been used but have been washed one or more times<\/p><p>*Products have been dirtied by the customer such as when trying them on<\/p><p>*Products which have taken on a smell such as cigarettes<\/p><p>*Products which have been broken or damaged by the customer or for which the tags have been lost<br\/><\/p>",
             "page": ""
           }
         },
