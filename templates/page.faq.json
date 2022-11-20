@@ -124,7 +124,7 @@
           "settings": {
             "heading": "HOW DO I TRACK MY ORDER?",
             "icon": "none",
-            "row_content": "<p>Tracking information will be sent to the contact information you provide us. This will be sent via email when your order has been fulfilled. For specific tracking details or if your<br\/>delivery is late, you can contact the carrier directly for the most up-to-date information, including any carrier or regional delays.<br\/><\/p>",
+            "row_content": "<p>Tracking information will be sent via email when your order has been fulfilled. For specific tracking details or if your<br\/>delivery is late, you can contact the carrier directly for the most up-to-date information, including any carrier or regional delays.<br\/><\/p>",
             "page": ""
           }
         }
