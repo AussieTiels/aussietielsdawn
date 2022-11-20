@@ -187,7 +187,7 @@
           "settings": {
             "heading": "WHERE IS MY REFUND?",
             "icon": "none",
-            "row_content": "<p>We’ll process your return and issue a refund to your original form of payment. We’ll send you an email to let you know we’ve issued the refund—it may take up to 15 additional business days for the funds to show in your account.<\/p><p>You can't be issued a refund to a different card or bank account. Refunds are issued in the same currency that you used to pay for the order. <\/p><p>If the currency needs to be converted for the refund, then the current currency rate, and not the currency rate at the time of the order, is used in the conversion. <\/p><p>You're charged a currency conversion fee when the payment is converted, but not when a refund is issued.<\/p><p>Currency conversion fees and credit card fees aren't returned to you when you issue a refund.<br\/><\/p>",
+            "row_content": "<p>We’ll process your return and issue a refund to your original form of payment. We’ll send you an email to let you know we’ve issued the refund—it may take up to 15 additional business days for the funds to show in your account.<\/p><p>You can't be issued a refund to a different card or bank account. Refunds are issued in the same currency that you used to pay for the order. <\/p><p>If the currency needs to be converted for the refund, then the current currency rate, and not the currency rate at the time of the order, is used in the conversion. <\/p><p>You will be charged a currency conversion fee when the payment is converted, but not when a refund is issued.<\/p><p>Currency conversion fees and credit card fees aren't returned to you when you are issued a refund.<br\/><\/p>",
             "page": ""
           }
         },
