@@ -79,7 +79,7 @@
           "settings": {
             "heading": "WHERE IS MY ORDER\/WHEN WILL I RECEIVE MY ITEMS?",
             "icon": "none",
-            "row_content": "<p>All in stock items are shipped immediately. Backordered products are estimated to be in stock in about 1 months time. Once the item is shipped, standard shipping times apply. If your order has items with different estimated shipping dates, your order will only ship once all items are ready.<br\/><\/p><p>Once shipped, AU shipments (depending on shipping method) will take 2-9 business days and international shipments will take 4-27 business days to be delivered.<br\/><\/p><p>You can choose standard or express delivery options at checkout.<\/p><p>Standard and express parcel international delivery times please check: <a href=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\" title=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\">https:\/\/auspost.com.au\/service-updates\/international-delivery-times<\/a><\/p>",
+            "row_content": "<p>All in stock items are shipped immediately. Backordered products are estimated to be in stock in about 1 months time. Once the item is shipped, standard shipping times apply. If your order has items with different estimated shipping dates, your order will only ship once all items are ready.<br\/><\/p><p>Once shipped, AU shipments (depending on shipping method) will take 2-9 business days and international shipments will take 4-27 business days to be delivered.<br\/><\/p><p>You can choose standard or express delivery options at checkout.<\/p><p>Standard and express parcel international delivery times please check: <a href=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\" title=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\">https:\/\/auspost.com.au\/service-updates\/international-delivery-times<\/a><\/p><p><\/p>",
             "page": ""
           }
         },
@@ -88,7 +88,7 @@
           "settings": {
             "heading": "DO YOU SHIP INTERNATIONALLY?",
             "icon": "none",
-            "row_content": "<p>Yes, as a start we ship to 17 countries\/regions. We would try our best to roll out to ship to a wider range of countries soon. <\/p><p>If we are unable to ship to your country, you will be notified at checkout and your purchase will be blocked. <\/p><p><br\/><\/p>",
+            "row_content": "<p>Yes, as a start we ship to 17 countries\/regions. We would try our best to roll out to ship to a wider range of countries soon. <\/p><p>If we are unable to ship to your country, you will be notified at checkout and your purchase will be blocked. <\/p><p><\/p>",
             "page": ""
           }
         },
@@ -115,7 +115,7 @@
           "settings": {
             "heading": "CAN I UPDATE MY SHIPPING ADDRESS AFTER I HAVE ORDERED?",
             "icon": "none",
-            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support <strong>support@aussietiels.com<\/strong> immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p><p>If your package fails to be delivered due to an incorrect or insufficient delivery address, or no body is in the address to receive the package, the goods will be returned to us by paying a return shipping fee. <\/p><p>You will be issued a refund of the items (exclude shipping fee) but charged a return shipping fee and a $8 USD administrative fee.<\/p>",
+            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support <strong>support@aussietiels.com<\/strong> immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p><p>If your package fails to be delivered due to an incorrect or insufficient delivery address, or no body is in the address to receive the package, the goods will be returned to us by paying a return shipping fee. <\/p><p>You will be issued a refund of the items (exclude shipping fee) and charged a return shipping fee and a $8 USD administrative fee.<\/p>",
             "page": ""
           }
         },
@@ -124,7 +124,7 @@
           "settings": {
             "heading": "HOW DO I TRACK MY ORDER?",
             "icon": "none",
-            "row_content": "<p>Tracking information will be sent via email when your order has been fulfilled. For specific tracking details or if your<br\/>delivery is late, you can contact the carrier directly for the most up-to-date information, including any carrier or regional delays.<br\/><\/p>",
+            "row_content": "<p>Tracking information will be sent via email when your order has been fulfilled. For specific tracking details or if your delivery is late, you can contact the carrier directly for the most up-to-date information, including any carrier or regional delays.<br\/><\/p>",
             "page": ""
           }
         }
