@@ -1,6 +1,3 @@
-.video-fixed-height {
-  height: 400px !important;
-}
 
 .collage-wrapper-title {
   margin-top: 0;
@@ -26,7 +23,7 @@
   }
 
   .collage--mobile {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: none;
   }
 
   .collage--mobile .collage__item--left:nth-child(3n - 2) {
