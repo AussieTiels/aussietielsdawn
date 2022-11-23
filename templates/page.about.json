@@ -17,7 +17,9 @@
             "title": "Lemon: Female DOB: 29\/10\/2020",
             "text": "<p>Lemon is a pied lutino cockatiel with grey pattern on the right wing. <br\/><br\/>Lemon is naughty and lively. She cant leave people even for one moment. She is unable to stay in the cage for too long.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": ""
           }
         },
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-1": {
@@ -27,7 +29,9 @@
             "title": "Ana: Female DOB 27\/09\/2020",
             "text": "<p>Ana is a grey pearl cockatiel and she was bald as she was abused by her parents before she s 3 weeks old. <br\/><br\/>She's timid and can be easily scared. She's still unable to fly.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": ""
           }
         },
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-2": {
@@ -37,7 +41,9 @@
             "title": "Quishna: Male DOB 07\/12\/2020",
             "text": "<p>Quishna is a pied lutino with grey pattern on the left wing. <br\/><br\/>Quishna is the youngest one among the 3. He is smart and proud and never allow people to touch.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": ""
           }
         }
       },
@@ -62,60 +68,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "e9e3ecb0-01d0-424b-8a44-862b338fbee4": {
-      "type": "collage",
-      "blocks": {
-        "template--16787045548309__e9e3ecb0-01d0-424b-8a44-862b338fbee4-1669197968a1569771-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "213356e3-dca8-42a8-9b16-42d31c08b331": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16787045548309__e9e3ecb0-01d0-424b-8a44-862b338fbee4-1669197968a1569771-0",
-        "213356e3-dca8-42a8-9b16-42d31c08b331"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "873409de-5afc-43e8-a0fb-45aa7da8affe": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
-    "6266b61e-89aa-46bb-ad18-ba87a66ccb7f",
-    "e9e3ecb0-01d0-424b-8a44-862b338fbee4",
-    "873409de-5afc-43e8-a0fb-45aa7da8affe"
+    "6266b61e-89aa-46bb-ad18-ba87a66ccb7f"
   ]
 }
