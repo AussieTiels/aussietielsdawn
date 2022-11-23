@@ -174,7 +174,10 @@
                               <ul id="FooterCountryList" role="list" class="disclosure__list list-unstyled">
                                 {%- for country in localization.available_countries -%}
                                   <li class="disclosure__item" tabindex="-1"                                     
-                                    {% if country.name != 'German' %} 
+                                    {% if country.name == 'France' or country.name == 'Italy' or country.name == 'Portugal' or country.name == 'Spain' or
+                                       country.name == 'Belgium' or country.name == 'Estonia' or country.name == 'Finland' or 
+                                       country.name == 'Greece' or country.name == 'Luxembourg' or country.name == 'Netherlands' or
+                                       country.name == 'Austria' %} 
                                     hidden
                                     {% endif %}>
                                     <a class="link link--text disclosure__link caption-large{% if country.iso_code == localization.country.iso_code %} disclosure__link--active{% endif %} focus-inset" href="#"{% if country.iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ country.iso_code }}">
