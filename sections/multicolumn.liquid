@@ -76,6 +76,8 @@
                   </div>
                 </div>
               {%- endif -%}
+
+              {% section 'video' %}
               <div class="multicolumn-card__info">
                 {%- if block.settings.title != blank -%}
                   <h3>{{ block.settings.title | escape }}</h3>
