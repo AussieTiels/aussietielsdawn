@@ -17,6 +17,7 @@
             "text": "<p>Lemon is a pied lutino cockatiel with grey pattern on the right wing. <br\/><br\/>Lemon is naughty and lively. She cant leave people even for one moment. She is unable to stay in the cage for too long.<\/p>",
             "link_label": "",
             "link": "",
+            "cover_image": "shopify:\/\/shop_images\/Lemon.png",
             "video_url": "https:\/\/www.youtube.com\/watch?v=FgvBMfDJ6XE",
             "description": ""
           }
@@ -28,6 +29,7 @@
             "text": "<p>Ana is a grey pearl cockatiel and she was bald as she was abused by her parents before she s 3 weeks old. <br\/><br\/>She's timid and can be easily scared. She's still unable to fly.<\/p>",
             "link_label": "",
             "link": "",
+            "cover_image": "shopify:\/\/shop_images\/Ana.png",
             "video_url": "https:\/\/www.youtube.com\/watch?v=9Rh6J2sCdw8",
             "description": ""
           }
@@ -68,6 +70,7 @@
     },
     "873409de-5afc-43e8-a0fb-45aa7da8affe": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
