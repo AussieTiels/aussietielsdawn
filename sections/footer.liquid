@@ -177,11 +177,10 @@
                                     {% if country.name == 'France' or country.name == 'Italy' or country.name == 'Portugal' or country.name == 'Spain' or
                                        country.name == 'Belgium' or country.name == 'Estonia' or country.name == 'Finland' or 
                                        country.name == 'Greece' or country.name == 'Luxembourg' or country.name == 'Netherlands' or
-                                       country.name == 'Austria' or country.name == 'Bulgaria' or country.name == 'Croatia' or
-                                       country.name == 'Denmark' or country.name == 'Hungary' or country.name == 'Ireland' or
+                                       country.name == 'Austria' or country.name == 'Ireland' or
                                        country.name == 'Latvia' or country.name == 'Lithuania' or country.name == 'Luxembourg' or
-                                       country.name == 'Malta' or country.name == 'Poland' or country.name == 'Romania' or
-                                       country.name == 'Slovakia' or country.name == 'Slovenia' or country.name == 'Sweden' %} 
+                                       country.name == 'Malta' or country.name == 'Romania' or
+                                       country.name == 'Slovakia' or country.name == 'Slovenia' %} 
                                     hidden
                                     {% endif %}>
                                     <a class="link link--text disclosure__link caption-large{% if country.iso_code == localization.country.iso_code %} disclosure__link--active{% endif %} focus-inset" href="#"{% if country.iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ country.iso_code }}">
