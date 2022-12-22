@@ -128,7 +128,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Free International Shipping over $55 USD + Free domestic shipping over $50AUD",
+              "text": "Free International Shipping over $55 USD or Free domestic shipping over $50AUD",
               "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": ""
