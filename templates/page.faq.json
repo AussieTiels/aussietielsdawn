@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -10,33 +19,38 @@
     },
     "6266b61e-89aa-46bb-ad18-ba87a66ccb7f": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-0": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": ""
           }
         },
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-1": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": ""
           }
         },
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-2": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": ""
           }
         }
       },
@@ -45,6 +59,7 @@
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-1",
         "template--16727600824597__6266b61e-89aa-46bb-ad18-ba87a66ccb7f-16672178762fad3eee-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Multicolumn",
         "heading_size": "h1",
@@ -65,7 +80,7 @@
     "3fe63895-5f44-4e68-9a06-4b2e3134a22a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"collapsible-content-wrapper-narrow\">\n<div style=\"text-align: left; font-weight: 800; font-size: 40px\">Shipping and Delivery<\/div>\n<hr style=\"width: 58px; height: 3px; color: orange; background-color: orange;margin: 0 auto 0 0\">\n<\/div>",
+        "custom_liquid": "<div class=\"collapsible-content-wrapper-narrow\">\n<div style=\"text-align: left; font-weight: 800; font-size: 40px\">Shipping and Delivery</div>\n<hr style=\"width: 58px; height: 3px; color: orange; background-color: orange;margin: 0 auto 0 0\">\n</div>",
         "color_scheme": "background-1",
         "padding_top": 48,
         "padding_bottom": 16
@@ -77,9 +92,9 @@
         "template--16794974945557__2be8195e-1d64-49a6-9f37-12520449bff1-1667278485fa22a1b6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "WHERE IS MY ORDER\/WHEN WILL I RECEIVE MY ITEMS?",
+            "heading": "WHERE IS MY ORDER/WHEN WILL I RECEIVE MY ITEMS?",
             "icon": "none",
-            "row_content": "<p>All in stock items are shipped immediately. Backordered products are estimated to be in stock in about 1 months time. Once the item is shipped, standard shipping times apply. If your order has items with different estimated shipping dates, your order will only ship once all items are ready.<br\/><\/p><p>Once shipped, AU shipments (depending on shipping method) will take 2-9 business days and international shipments will take 4-27 business days to be delivered.<br\/><\/p><p>You can choose standard or express delivery options at checkout.<\/p><p>Standard and express parcel international delivery times please check: <\/p><p><a href=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\" title=\"https:\/\/auspost.com.au\/service-updates\/international-delivery-times\">https:\/\/auspost.com.au\/service-updates\/international-delivery-times<\/a><\/p><p><\/p>",
+            "row_content": "<p>All in stock items are shipped immediately. Backordered products are estimated to be in stock in about 1 months time. Once the item is shipped, standard shipping times apply. If your order has items with different estimated shipping dates, your order will only ship once all items are ready.<br/></p><p>Once shipped, AU shipments (depending on shipping method) will take 2-9 business days and international shipments will take 4-27 business days to be delivered.<br/></p><p>You can choose standard or express delivery options at checkout.</p><p>Standard and express parcel international delivery times please check: </p><p><a href=\"https://auspost.com.au/service-updates/international-delivery-times\" title=\"https://auspost.com.au/service-updates/international-delivery-times\">https://auspost.com.au/service-updates/international-delivery-times</a></p><p></p>",
             "page": ""
           }
         },
@@ -88,7 +103,7 @@
           "settings": {
             "heading": "DO YOU SHIP INTERNATIONALLY?",
             "icon": "none",
-            "row_content": "<p>Yes, as a start we ship to 17 countries\/regions. We would try our best to roll out to ship to a wider range of countries soon. <\/p><p>If we are unable to ship to your country, you will be notified at checkout and your purchase will be blocked. <\/p><p><\/p>",
+            "row_content": "<p>Yes, as a start we ship to 17 countries/regions. We would try our best to roll out to ship to a wider range of countries soon. </p><p>If we are unable to ship to your country, you will be notified at checkout and your purchase will be blocked. </p><p></p>",
             "page": ""
           }
         },
@@ -97,16 +112,16 @@
           "settings": {
             "heading": "HOW MUCH DOES SHIPPING COST?",
             "icon": "none",
-            "row_content": "<p>Shipping costs are displayed on the checkout page and are calculated based on weight, shipping method and destination.<br\/><\/p>",
+            "row_content": "<p>Shipping costs are displayed on the checkout page and are calculated based on weight, shipping method and destination.<br/></p>",
             "page": ""
           }
         },
         "a8238473-5462-4418-82c2-36bb162fd584": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "WILL I HAVE TO PAY TAXES\/IMPORT DUTIES IN MY COUNTRY?",
+            "heading": "WILL I HAVE TO PAY TAXES/IMPORT DUTIES IN MY COUNTRY?",
             "icon": "none",
-            "row_content": "<p>Import duty is a tax collected on imports and some exports by a country's customs authorities. A good's value will usually dictate the import duty.<br\/><\/p><p>While the cost of shipment for your package is included in your order total, you may be subject to taxes\/import duties for your package upon arrival to your destination country. Kindly note, we are not able to cover additional costs in order for you to receive your package once it arrives at customs.<br\/><br\/>We do everything on our end to declare customs (value, items, weight, material) to ensure that there is no added customs charge when your order arrives to your country. Most of our packages ship without any additional fees or charges, but each country has a unique customs process and occasionally random packages will be pulled for inspection. We cannot control if your order gets pulled and there are additional fees during the customs process in your country. We do our due diligence on our end to prevent this from happening, but unfortunately we are not in control of each order and it is up to your country's postal service how your order is handled. We recommend speaking with your local post office if you have any specific questions regarding your country's customs process.<br\/><\/p>",
+            "row_content": "<p>Import duty is a tax collected on imports and some exports by a country's customs authorities. A good's value will usually dictate the import duty.<br/></p><p>While the cost of shipment for your package is included in your order total, you may be subject to taxes/import duties for your package upon arrival to your destination country. Kindly note, we are not able to cover additional costs in order for you to receive your package once it arrives at customs.<br/><br/>We do everything on our end to declare customs (value, items, weight, material) to ensure that there is no added customs charge when your order arrives to your country. Most of our packages ship without any additional fees or charges, but each country has a unique customs process and occasionally random packages will be pulled for inspection. We cannot control if your order gets pulled and there are additional fees during the customs process in your country. We do our due diligence on our end to prevent this from happening, but unfortunately we are not in control of each order and it is up to your country's postal service how your order is handled. We recommend speaking with your local post office if you have any specific questions regarding your country's customs process.<br/></p>",
             "page": ""
           }
         },
@@ -115,7 +130,7 @@
           "settings": {
             "heading": "CAN I UPDATE MY SHIPPING ADDRESS AFTER I HAVE ORDERED?",
             "icon": "none",
-            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support <strong>support@aussietiels.com<\/strong> immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br\/><\/p>",
+            "row_content": "<p>If you have incorrectly formatted or entered your address, please contact customer support <strong>support@aussietiels.com</strong> immediately with your order number and correct shipping address. If you fail to communicate a shipping address change before your order is shipped you will have to contact the courier to reroute your order.<br/></p>",
             "page": ""
           }
         },
@@ -124,7 +139,7 @@
           "settings": {
             "heading": "HOW DO I TRACK MY ORDER?",
             "icon": "none",
-            "row_content": "<p>Tracking information will be sent via email when your order has been fulfilled. For specific tracking details or if your delivery is late, you can contact the carrier directly for the most up-to-date information, including any carrier or regional delays.<br\/><\/p>",
+            "row_content": "<p>Tracking information will be sent via email when your order has been fulfilled. For specific tracking details or if your delivery is late, you can contact the carrier directly for the most up-to-date information, including any carrier or regional delays.<br/></p>",
             "page": ""
           }
         }
@@ -155,7 +170,7 @@
     "c231fb89-50cb-43d5-a59f-772726ff8dae": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"collapsible-content-wrapper-narrow\">\n<div style=\"text-align: left; font-weight: 800; font-size: 40px\">Exchanges and Returns<\/div>\n<hr style=\"width: 58px; height: 3px; color: orange; background-color: orange;margin: 0 auto 0 0\">\n<\/div>",
+        "custom_liquid": "<div class=\"collapsible-content-wrapper-narrow\">\n<div style=\"text-align: left; font-weight: 800; font-size: 40px\">Exchanges and Returns</div>\n<hr style=\"width: 58px; height: 3px; color: orange; background-color: orange;margin: 0 auto 0 0\">\n</div>",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 16
@@ -169,7 +184,7 @@
           "settings": {
             "heading": "CAN I EXCHANGE ITEMS ONCE I’VE PLACED MY ORDER?",
             "icon": "none",
-            "row_content": "<p>As we operate on a pre-order model with limited stock, all orders are final. Please double check your order when checking out. We do not offer size-exchanges or item exchanges once you have purchased the goods they are final. You can cancel your order or cancel items within that order before they are shipped out.<br\/><\/p>",
+            "row_content": "<p>As we operate on a pre-order model with limited stock, all orders are final. Please double check your order when checking out. We do not offer size-exchanges or item exchanges once you have purchased the goods they are final. You can cancel your order or cancel items within that order before they are shipped out.<br/></p>",
             "page": ""
           }
         },
@@ -178,7 +193,7 @@
           "settings": {
             "heading": "CAN I RETURN THE ITEMS?",
             "icon": "none",
-            "row_content": "<p>Returns are accepted if there is a fault with the product\/s upon delivery orthe delivered products differ from what you ordered. please contact our customer support (<em>support@aussietiels.com<\/em>) with photos of the defective good\/s, your order number and a description of the issue within 7 days after delivery. <\/p><p>We will issue a full refund including shipping costs. <\/p><p><\/p><p>Please note: we may not accept a request for a return or exchange in the following cases:<\/p><p>* Customer related circumstances: size doesn't fit, ordered by mistake, doesn't like the color, etc.<\/p><p>*Requested more than 7 days after delivery<\/p><p>*Products have been used by the customer<\/p><p>*Products have not been used but have been washed one or more times<\/p><p>*Products have been dirtied by the customer such as when trying them on<\/p><p>*Products which have taken on a smell such as cigarettes<\/p><p>*Products which have been broken or damaged by the customer or for which the tags have been lost<br\/><\/p><p>If you are unable to receive your items due to reasons such as refusal of package, long absence from address, or incorrect address, you will be issued a refund of the items (exclude shipping fee), but you will be charged a return shipping fee and a $8 USD administrative fee.<\/p><p><\/p>",
+            "row_content": "<p>Returns are accepted if there is a fault with the product/s upon delivery or the delivered products differ from what you ordered. please contact our customer support (<em>aussietielsmerch@gmail.com</em>) with photos of the defective good/s, your order number and a description of the issue within 7 days after delivery. </p><p>We will issue a full refund including shipping costs. </p><p></p><p>Please note: we may not accept a request for a return or exchange in the following cases:</p><p>* Customer related circumstances: size doesn't fit, ordered by mistake, doesn't like the color, etc.</p><p>*Requested more than 7 days after delivery</p><p>*Products have been used by the customer</p><p>*Products have not been used but have been washed one or more times</p><p>*Products have been dirtied by the customer such as when trying them on</p><p>*Products which have taken on a smell such as cigarettes</p><p>*Products which have been broken or damaged by the customer or for which the tags have been lost<br/></p><p>If you are unable to receive your items due to reasons such as refusal of package, long absence from address, or incorrect address, you will be issued a refund of the items (exclude shipping fee), but you will be charged a return shipping fee and a $8 USD administrative fee.</p><p></p>",
             "page": ""
           }
         },
@@ -187,7 +202,7 @@
           "settings": {
             "heading": "WHERE IS MY REFUND?",
             "icon": "none",
-            "row_content": "<p>We’ll process your return and issue a refund to your original form of payment. We’ll send you an email to let you know we’ve issued the refund—it may take up to 15 additional business days for the funds to show in your account.<\/p><p>You can't be issued a refund to a different card or bank account. Refunds are issued in the same currency that you used to pay for the order. <br\/><\/p>",
+            "row_content": "<p>We’ll process your return and issue a refund to your original form of payment. We’ll send you an email to let you know we’ve issued the refund—it may take up to 15 additional business days for the funds to show in your account.</p><p>You can't be issued a refund to a different card or bank account. Refunds are issued in the same currency that you used to pay for the order. <br/></p>",
             "page": ""
           }
         },
@@ -196,7 +211,7 @@
           "settings": {
             "heading": "WHAT CAN I DO IF I ORDERED THE WRONG SIZE?",
             "icon": "none",
-            "row_content": "<p>All orders are final. If you ordered the incorrect size please immediately contact customer support (<em>support@aussietiels.com<\/em>) with your order number and detail what was ordered in the incorrect size and we will remove them from your order.<\/p><p>Please note that we can not change your order once it is shipped out.<br\/><\/p>",
+            "row_content": "<p>All orders are final. If you ordered the incorrect size please immediately contact customer support (<em>aussietielsmerch@gmail.com</em>) with your order number and detail what was ordered in the incorrect size and we will remove them from your order.</p><p>Please note that we can not change your order once it is shipped out.<br/></p>",
             "page": ""
           }
         }
@@ -225,7 +240,7 @@
     "1f3a353b-9c82-4ffb-86a2-3a5e24b75527": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"collapsible-content-wrapper-narrow\">\n<div style=\"text-align: left; font-weight: 800; font-size: 40px\">Payment<\/div>\n<hr style=\"width: 58px; height: 3px; color: orange; background-color: orange;margin: 0 auto 0 0\">\n<\/div>",
+        "custom_liquid": "<div class=\"collapsible-content-wrapper-narrow\">\n<div style=\"text-align: left; font-weight: 800; font-size: 40px\">Payment</div>\n<hr style=\"width: 58px; height: 3px; color: orange; background-color: orange;margin: 0 auto 0 0\">\n</div>",
         "color_scheme": "background-1",
         "padding_top": 32,
         "padding_bottom": 16
@@ -239,7 +254,7 @@
           "settings": {
             "heading": "WHAT PAYMENT METHODS ARE ACCEPTED?",
             "icon": "none",
-            "row_content": "<p>We accept major credit cards including Visa and Mastercard . We also accept PayPal, ShopPay, Apple Pay and GPay.<br\/><\/p>",
+            "row_content": "<p>We accept major credit cards including Visa and Mastercard . We also accept PayPal, ShopPay, Apple Pay and GPay.<br/></p>",
             "page": ""
           }
         },
@@ -248,7 +263,7 @@
           "settings": {
             "heading": "WHAT CURRENCY IS USED?",
             "icon": "none",
-            "row_content": "<p>We accept your local currency. Please use the currency toggle at the bottom of the website page to select your own local currentcy if the system is not displaying automatically.<\/p><p><\/p>",
+            "row_content": "<p>We accept your local currency. Please use the currency toggle at the bottom of the website page to select your own local currentcy if the system is not displaying automatically.</p><p></p>",
             "page": ""
           }
         }
